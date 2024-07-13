@@ -94,6 +94,8 @@ This project was completed during a three-month summer internship at Vermeg. The
 
 ![architecture](/project_assets/architecture.png)
 
+NB : VERMEG’s FCR engine reimagines regulatory reporting with a highly scalable platform, ensuring responsiveness over massive data sets
+
 ## Technologies Used
 
 - **Programming Languages & Frameworks:** Java, Spring Boot
